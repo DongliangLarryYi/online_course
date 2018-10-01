@@ -1,4 +1,4 @@
-# Data science online courese projects
+# Data science online course projects
 
 - **Bayesian statistics with rjags.R:** Data analysis with bayesian statistics in R/rjags
 
